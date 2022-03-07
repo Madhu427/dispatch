@@ -1,5 +1,5 @@
 @Library('roboshop') _
 
-env.COMPONENT = "dispatch1"
+env.COMPONENT = "dispatch"
 env.BUILD_LABEL = "WORKSTATION"
 golang()
